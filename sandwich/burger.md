@@ -1,5 +1,5 @@
-Pain
-Fromage
-Steak
-Bacon
-Salade
+Pain!
+Fromage!
+Steak!
+Bacon!
+Salade!
